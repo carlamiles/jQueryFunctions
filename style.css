@@ -21,7 +21,7 @@ header {
 .functions h1 {
     text-align: center;
 }
-.functions a:link {
+.functions a, a:link, a:visited {
     display: inline-block;
     width: 100px;
     text-decoration: none;
